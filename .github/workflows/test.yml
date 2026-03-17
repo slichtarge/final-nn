@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: hw7_regression
+name: final_nn
 
 # Controls when the action will run. 
 on:
