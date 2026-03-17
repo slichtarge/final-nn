@@ -1,6 +1,5 @@
 pytest
 numpy
-random
 pandas
 scikit-learn
 matplotlib
