@@ -4,9 +4,9 @@ import os
 import numpy as np
 import pytest
 
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../nn/')))
-from nn import NeuralNetwork 
-import preprocess
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../')))
+from nn.nn import NeuralNetwork 
+from nn import preprocess
 
 @pytest.fixture
 def simple_nn():
