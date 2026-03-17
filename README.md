@@ -1,3 +1,5 @@
+[![final_nn](https://github.com/slichtarge/final-nn/actions/workflows/test.yml/badge.svg)](https://github.com/slichtarge/final-nn/actions/workflows/test.yml)
+
 # Final project: neural network
 
 ## Overview
